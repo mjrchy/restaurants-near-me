@@ -1,6 +1,7 @@
 # Restaurants Near Me
 ## Description
 Restaurant Near Me project is the application which users can search restaurant by category of restaurant, distance from user's location, city of restaurant and rating of restaurant in the main page. After user select data in combobox, The application will show location of each restaurant in the map. Users can also select Data Analysis menu in the menu button then the application will show descriptive statistics, distribution graph, Correlation and Part-to-whole graph which are analysis by restaurant data in Thailand.
+![My Image](screenshot1.jpg)
 
 ## Data Sources
 List the data sources used by the application, along with their descriptions
