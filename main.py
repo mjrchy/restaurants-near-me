@@ -6,6 +6,6 @@ if __name__ == '__main__':
     ui = UI()
     file_path = 'Lineman_Shops.csv'
     if os.path.exists(file_path):
-        with open(file_path, 'r') as file:
+        with open(file_path, 'r') as file:  
             data = Data(file_path)
     ui.mainloop()
